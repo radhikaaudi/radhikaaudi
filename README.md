@@ -59,22 +59,12 @@ I have experience working on several innovative projects, including a **Wishlist
 
 ---
 
-## 📸 Gallery
 
-Here are a few of my favorite images and diagrams! (Feel free to replace these with your own images)
 
-### Diagram 1: Web3 Real-Time Communication
 
-![Web3 Communication Diagram](https://your-image-link.com)
-
-### Diagram 2: Machine Learning Model Workflow
-
-![Machine Learning Workflow](https://your-image-link.com)
-
-### Your Custom Images
 
 To insert your own images, use the following markdown format:
-![Screenshot](https://github.com/radhikaaudi/radhikaaudi/blob/main/path/to/your/image/Screenshot%20(563).png)
+![Screenshot](https://github.com/radhikaaudi/radhikaaudi/C:\Users\Radhika Audichya\OneDrive - LNMIIT\screenshots\Screenshot (563).png)
 
 ```markdown
 ![Image Title](path/to/your/image.jpg)
