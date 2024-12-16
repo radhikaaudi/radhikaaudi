@@ -64,7 +64,8 @@ I have experience working on several innovative projects, including a **Wishlist
 
 
 To insert your own images, use the following markdown format:
-![Screenshot](https://github.com/radhikaaudi/radhikaaudi/C:\Users\Radhika Audichya\OneDrive - LNMIIT\screenshots\Screenshot (563).png)
+![Screenshot](https://github.com/radhikaaudi/radhikaaudi/Users/Radhika Audichya/OneDrive - LNMIIT/screenshots/Screenshot (563).png")
+
 
 ```markdown
 ![Image Title](path/to/your/image.jpg)
