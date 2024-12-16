@@ -1,46 +1,81 @@
-## Hi there 👋
-# Hi there, I'm Radhika Audichya! 👋
+# Welcome to My GitHub Profile! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
+Hi there! I'm Radhika Audichya, an aspiring Software Developer passionate about technology, environmental conservation, and problem-solving. I apply my skills to create innovative solutions, from building bots to real-time communication platforms. Here's a glimpse into my work and the technologies I love!
 
-Welcome to my GitHub profile! I'm a passionate Software Developer and Web3 enthusiast dedicated to creating innovative solutions for real-world challenges.
+## 🚀 About Me
 
----
-
-## 🌟 About Me
-- 🎓 **Undergraduate Student** in Computer Science and Engineering (CCE).
-- 💻 **Software Development Engineer (SDE) aspirant**, skilled in problem-solving and efficient coding.
-- 🌍 Passionate about **environmental conservation** and leveraging technology for societal impact.
-- 🤝 Active in **hackathons**, including **LNMHacks**, where I lead and organize large-scale events.
-- 🎨 Creative thinker with a knack for blending technology and design.
-
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+- 🔭 I’m currently working on **Web3-based real-time communication platforms** and **machine learning models** for energy prediction and optimization.
+- 🌱 I’m learning **React**, **Node.js**, **Web3**, and **Machine Learning**.
+- 👯 I’m open to collaborating on innovative projects that combine **technology and sustainability**.
+- 🤔 I’m looking for opportunities in **Software Development** and **Web3 technologies**.
+- 💬 Ask me about **development, Web3, and environmental tech**.
+- 📫 How to reach me: [Email](mailto:your.email@example.com)
 
 ---
 
-## 🚀 Skills
+## 📊 GitHub Stats
 
-```mermaid
-graph TD;
-    Programming-->JavaScript;
-    Programming-->Python;
-    Frameworks-->React;
-    Frameworks-->Node.js;
-    Tools-->Git;
-    Tools-->Firebase;
+![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
+---
 
-<!--
-**radhikaaudi/radhikaaudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies & Tools
 
-Here are some ideas to get you started:
+Here are the languages and tools I work with:
 
-- 🔭 I’m currently working on AI/ML
-- 🌱 I’m currently learning anything that interests me
-- 👯 I’m looking to collaborate on some good projects and woould love to learn from all of you.
-- 🤔 I’m looking for help with like minded people and brilliant minds.
-- 💬 Ask me about anything that interests you.
-- 📫 How to reach me: radhikaaudi11@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: the fact is fun facts come to my mind only when it is not asked.
--->
+- **Languages**: 
+  - Python
+  - JavaScript (React, Node.js)
+  - TypeScript
+  - HTML/CSS
+
+- **Frameworks**: 
+  - React
+  - Express.js
+  - Django
+
+- **Other Tools**:
+  - Git & GitHub
+  - Docker
+  - Web3.js
+  - Huddle01 SDK
+
+---
+
+## 📈 My Learning Journey
+
+I have experience working on several innovative projects, including a **Wishlist Bot**, **Machine Learning models for energy prediction**, and a **decentralized Google Drive**. I strive to merge technology with real-world problems and contribute to sustainability through my work.
+
+### Languages I’ve Learned:
+- **Python**: Advanced
+- **JavaScript/TypeScript**: Intermediate
+- **SQL**: Intermediate
+- **HTML/CSS**: Proficient
+
+### Frameworks I’m Working With:
+- **React**: Intermediate
+- **Node.js**: Intermediate
+- **Django**: Beginner
+
+---
+
+## 📸 Gallery
+
+Here are a few of my favorite images and diagrams! (Feel free to replace these with your own images)
+
+### Diagram 1: Web3 Real-Time Communication
+
+![Web3 Communication Diagram](https://your-image-link.com)
+
+### Diagram 2: Machine Learning Model Workflow
+
+![Machine Learning Workflow](https://your-image-link.com)
+
+### Your Custom Images
+
+To insert your own images, use the following markdown format:
+![Screenshot](https://github.com/radhikaaudi/radhikaaudi/blob/main/path/to/your/image/Screenshot%20(563).png)
+
+```markdown
+![Image Title](path/to/your/image.jpg)
+"C:\Users\Radhika Audichya\OneDrive - LNMIIT\screenshots\Screenshot (563).png"
